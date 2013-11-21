@@ -515,8 +515,8 @@
 		</repository>
 	</repositories>
 	<scm>
-		<url>https://github.com/qcif/redbox-rdsi</url>
-		<developerConnection>scm:git:https://github.com/qcif/redbox-rdsi.git</developerConnection>
+		<url>https://github.com/qcif/qcloud-arms</url>
+		<developerConnection>scm:git:https://github.com/qcif/qcloud-arms.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
